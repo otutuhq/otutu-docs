@@ -20,7 +20,7 @@ metaLinks:
 
 # 👋 Welcome
 
-## Welcome to Otutu User Documentation
+## Otutu User Documentation
 
 ### 🎯 Getting Started with Otutu
 
