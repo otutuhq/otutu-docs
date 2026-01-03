@@ -13,12 +13,9 @@ layout:
     visible: true
   metadata:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/quickstart
 ---
 
-# 🧭 Login and Dashboard
+# 📄 Estimates and Quotes
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 

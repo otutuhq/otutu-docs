@@ -1,5 +1,4 @@
 ---
-icon: hand-wave
 layout:
   width: default
   title:
@@ -19,7 +18,7 @@ metaLinks:
     - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
 ---
 
-# Welcome
+# 🚀 Getting Started
 
 Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
