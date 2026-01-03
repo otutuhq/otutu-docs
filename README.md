@@ -40,6 +40,8 @@ This user documentation is organized into six main sections, each focusing on a 
 
 The Otutu interface is organized into logical modules that mirror how real businesses operate:
 
+<figure><img src=".gitbook/assets/Screenshot 2026-01-03 at 6.45.40 PM.png" alt=""><figcaption></figcaption></figure>
+
 ### 🎯 How to Use This Documentation
 
 #### For New Users
