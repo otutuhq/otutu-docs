@@ -17,20 +17,66 @@ layout:
 
 # 🏢 Company Setup
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+## Company Setup Overview
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+Setting up your **company profile** is like introducing your business to Otutu. This information appears on your **invoices, reports, and official documents**. Getting this right ensures professional-looking communications and accurate financial records.
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](/broken/pages/i73g4LZQanoLj7XtSO18) section to learn more.
-{% endhint %}
+Running your business with incomplete or incorrect company information can create confusion, delay payments, and affect compliance. Accurate company setup ensures **tax calculations, reporting, and branding** work correctly from day one.
 
-### Import
+### Prerequisites
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+Before you begin, make sure you have:
 
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
+* Administrator access permissions
+* Business registration documents
 
-### Sync a repository
+### Step-by-Step Instructions
 
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+#### 1. Access Company Settings
+
+* Click the **gear icon** in the top-right corner
+* Select **"Company Settings"** from the dropdown\
+  📸 **Image Placeholder:** Company Settings menu
+
+#### 2. Configure Company Profile
+
+* **Basic Information:** Enter your company name, email, and phone number\
+  📸 **Image Placeholder:** Basic Information form
+* **Upload Logo:** Add your company logo for professional invoices (recommended 200x200 pixels)\
+  📸 **Image Placeholder:** Logo upload interface
+* **Address Information:** Complete your **billing** and **shipping** addresses\
+  📸 **Image Placeholder:** Address fields
+* **Legal Details:** Add entity type and tax ID for compliance\
+  📸 **Image Placeholder:** Legal Details form
+
+#### 3. Set Company Defaults
+
+* **Primary Currency:** Choose your main business currency (cannot be changed later)\
+  📸 **Image Placeholder:** Currency selection dropdown
+* **Default Bank Account:** Select which bank account to use for transactions\
+  📸 **Image Placeholder:** Default bank account selection
+
+#### 4. Configure Localization
+
+* **Language:** Set your preferred language for the interface\
+  📸 **Image Placeholder:** Language selection
+* **Timezone:** Choose your timezone for accurate date/time calculations\
+  📸 **Image Placeholder:** Timezone dropdown
+* **Date Format:** Select how dates should appear throughout the system\
+  📸 **Image Placeholder:** Date format selection
+* **Number Format:** Choose how numbers and currencies are displayed\
+  📸 **Image Placeholder:** Number format settings
+
+#### 5. Set Document Templates
+
+* **Invoice Settings:** Configure invoice number prefixes, payment terms, and default content\
+  📸 **Image Placeholder:** Invoice settings panel
+* **Visual Design:** Choose templates, colors, fonts, and column labels\
+  📸 **Image Placeholder:** Template and styling options
+
+### Tips and Best Practices
+
+* **Plan Ahead:** Set number prefixes that make sense for your business (e.g., INV-, BILL-, EST-)
+* **Test Settings:** Create test documents to verify settings work correctly
+* **Review Regularly:** Update settings as your business grows and evolves
+* **Professional Image:** A clean logo and consistent branding build trust with clients

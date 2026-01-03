@@ -20,20 +20,44 @@ metaLinks:
 
 # 🧭 Login and Dashboard
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+## Dashboard Overview
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+Welcome to **Otutu**! Your dashboard is the command center for your business finances. Think of it as your **financial cockpit** — everything you need to understand how your business is performing in one place. No more digging through spreadsheets or switching between multiple apps to understand your financial health.
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](/broken/pages/i73g4LZQanoLj7XtSO18) section to learn more.
-{% endhint %}
+Running a business without a clear financial dashboard is like flying a plane without instruments. You might be moving, but you don’t know if you’re going in the right direction, how much financial runway you have, or whether you’re heading toward trouble. Otutu’s dashboard gives you the **critical financial indicators** you need to make smart, confident business decisions.
 
-### Import
+### Prerequisites
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+Before you begin, make sure you have:
 
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
+* A valid Otutu user account
+* Access permissions to at least one company
 
-### Sync a repository
+### Step-by-Step Instructions
 
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+1. **Navigate to the Login Page**\
+   Go to your company’s Otutu URL (e.g., `https://yourcompany.otutu.com`).\
+   📸 **Image Placeholder:** Login page screen
+2. **Enter Your Credentials**
+
+* Enter your work email address
+* Type your secure password
+* Click **Sign In**
+
+If you’ve forgotten your password, click **Forgot Password** to reset it.\
+📸 **Image Placeholder:** Login form
+
+3. **Access Your Dashboard**\
+   Once logged in, you can:
+
+* View your current **bank balances**
+* See **outstanding invoices** (money clients owe you)
+* Check **unpaid bills** (money you owe suppliers)
+* Navigate to any module using the **left sidebar**\
+  📸 **Image Placeholder:** Dashboard overview
+
+### Tips and Best Practices
+
+* **Daily Check:** Spend 5 minutes each morning reviewing your dashboard
+* **Cash Flow Focus:** Pay attention to bank balances and upcoming bills
+* **Company Switcher:** If you manage multiple businesses, use the company switcher in the top-right corner

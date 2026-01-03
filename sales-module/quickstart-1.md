@@ -17,20 +17,78 @@ layout:
 
 # 🧾 Invoice Creation
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+## Invoices Overview
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+Invoices are how you ask clients to pay you. A professional invoice with clear details gets you paid faster and reduces confusion. Think of invoices as friendly but firm requests for payment that include everything the client needs to process your payment.
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](/broken/pages/i73g4LZQanoLj7XtSO18) section to learn more.
-{% endhint %}
+### Why This Matters
 
-### Import
+Poorly created invoices can lead to:
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+* Payment delays
+* Disputes
+* Cash flow problems
 
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
+Professional invoices with clear descriptions, proper tax calculations, and organized line items show clients you're serious about your business and make it easy for them to pay you.
 
-### Sync a repository
+### Prerequisites
 
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+* Client setup completed
+* Products/services configured in **Offerings**
+
+### Step-by-Step Instructions
+
+#### 1. Access Invoice Creation
+
+📸 **Image Placeholder:** Invoice list page with "New Invoice" button
+
+1. Go to **Sales → Invoices**
+2. Click **"New Invoice"** button
+
+#### 2. Select Client
+
+📸 **Image Placeholder:** Client dropdown with search functionality
+
+1. Start typing the client name to search
+2. Select the correct client from the dropdown
+3. Client's currency and payment terms auto-populate
+
+#### 3. Add Line Items
+
+📸 **Image Placeholder:** Line items table with product selection, quantity, and pricing
+
+1. Click **"Add Item"** for each product or service
+2. Select from your offerings catalog or enter custom items
+3. Enter quantity and unit price
+4. Watch totals calculate automatically
+
+#### 4. Configure Taxes
+
+📸 **Image Placeholder:** Tax selection dropdown with automatic calculations
+
+* Taxes apply automatically based on product settings
+* Override tax rates if needed for specific situations
+* See tax amounts calculated in real-time
+
+#### 5. Set Payment Terms
+
+📸 **Image Placeholder:** Due date and payment terms configuration
+
+* Due date calculates automatically based on client terms
+* Override if this invoice has special arrangements
+* Add payment instructions for the client
+
+#### 6. Review and Send
+
+📸 **Image Placeholder:** Invoice preview with totals and payment status
+
+* Review all details before finalizing
+* Add notes or special instructions
+* Save as draft or send directly to client
+
+### Tips and Best Practices
+
+* **Be Specific:** Vague descriptions lead to payment delays
+* **Number Everything:** Use clear invoice numbers for tracking
+* **Send Promptly:** Invoice immediately after delivering goods/services
+* **Follow Up:** Have a system for following up on unpaid invoices
