@@ -17,83 +17,118 @@ layout:
 
 # 🔀 Transaction Management
 
-## Chart of Accounts Overview
+## Transactions
 
-The Chart of Accounts is the foundation of your entire accounting system - think of it as the filing system for all your financial transactions. Every dollar that comes in or goes out of your business gets filed into a specific account. This organized structure ensures you can track exactly where your money is coming from and where it's going, making it possible to generate meaningful reports and make smart business decisions.
+### Overview
+
+Transactions are the individual financial events that make up your business’s financial story. Every time money moves in or out of your business, it is recorded as a transaction.
+
+The transaction management system ensures every financial movement is properly categorized, documented, and automatically creates the necessary accounting entries to keep your books balanced.
 
 ### Why This Matters
 
-Without a properly organized chart of accounts, your financial records would be like a messy desk with papers scattered everywhere - you'd have the information but couldn't find it when you need it. A well-structured chart of accounts helps you:
+Proper transaction management is like keeping a detailed diary of your business’s financial life. Without it, you would not be able to:
 
-* Track income and expenses by category
-* Generate accurate financial reports
-* Make informed business decisions
-* Satisfy tax and regulatory requirements
-* Identify profitable and unprofitable areas of your business
+* Track cash flow and prevent overdrafts
+* Identify spending patterns and cost-saving opportunities
+* Prepare accurate tax returns
+* Detect errors or fraud
+* Make informed financial decisions
 
 ### Prerequisites
 
+Before managing transactions, ensure the following are set up:
+
+* Chart of accounts configured
+* Bank accounts configured
 * Accounting module access permissions
-* Basic understanding of your business categories
-* Company setup completed
 
-### Step-by-Step Instructions
+### Accessing Transactions
 
-#### 1. Access Chart of Accounts
+#### Step 1: Open the Transaction List
 
-📸 **Image Placeholder:** Left navigation highlighting "Accounting" → "Chart of Accounts"
+1. Click **Accounting** in the left navigation
+2. Select **Transactions** from the dropdown menu
+3. View all transactions with available filtering options
 
-1. Click **"Accounting"** in the left navigation
-2. Select **"Chart of Accounts"** from the dropdown menu
-3. View accounts organized by category tabs
+📸 **Image Placeholder:** transactions-list-page.png
 
-#### 2. Understand Account Categories
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 9.17.41 PM.png" alt=""><figcaption></figcaption></figure>
 
-📸 **Image Placeholder:** Category tabs screenshot
+### Transaction Types
 
-The system organizes accounts into five main categories:
+Otutu supports four transaction types:
 
-* **Assets 💰:** What your business owns (cash, equipment, inventory)
-* **Liabilities 💳:** What your business owes (loans, credit cards, bills)
-* **Equity 🏢:** Owner's investment and retained earnings
-* **Revenue 💵:** Money coming into your business
-* **Expenses 💸:** Money going out of your business
+* **Deposit 💰**\
+  Money coming into bank accounts (customer payments, loans)
+* **Withdrawal 💸**\
+  Money going out of bank accounts (expenses, bill payments)
+* **Transfer 🔄**\
+  Moving money between your own accounts
+* **Journal Entry 📝**\
+  Manual accounting adjustments
 
-#### 3. View Account Details
+📸 **Image Placeholder:** transaction-types-modal.png
 
-📸 **Image Placeholder:** Account detail view screenshot
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 9.19.25 PM.png" alt=""><figcaption></figcaption></figure>
 
-* Click on any account tab to see accounts in that category
-* Each account shows:
-  * Account code (unique identifier)
-  * Account name (descriptive title)
-  * Current balance
-  * Last transaction date
-  * Currency designation
+### Filtering and Searching Transactions
 
-#### 4. Create New Account
+Use filters to find specific transactions:
 
-📸 **Image Placeholder:** Add new account form
+* **Account Filter** – Filter by bank account or chart of accounts category
+* **Status Filter** – Reviewed vs unreviewed transactions
+* **Type Filter** – Deposit, withdrawal, transfer, or journal entry
+* **Date Range** – Filter by specific periods
+* **Payee Filter** – Filter by clients or vendors
 
-1. Click **"Add a new account"** button
-2. Select account type from dropdown
-3. System automatically generates account code
-4. Enter account name and description
-5. Set currency if multi-currency account
-6. Configure bank account details if applicable
+📸 **Image Placeholder:** transaction-filters-panel.png
 
-#### 5. Edit Existing Accounts
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 9.25.11 PM.png" alt=""><figcaption></figcaption></figure>
 
-📸 **Image Placeholder:** Edit account screen
+### Creating a New Transaction
 
-1. Click the edit icon next to any account
-2. Update account details as needed
-3. Archive accounts that are no longer used
+#### Step 2: Add a Transaction
+
+1. Click **New Transaction**
+2. Select a transaction type
+   * Deposits / Withdrawals: Choose bank account and category
+   * Transfers: Select source and destination accounts
+   * Journal Entries: Enter debit and credit accounts
+3. Enter the amount and description
+4. Set the transaction date
+5. Add notes or references (optional)
+
+📸 **Image Placeholder:** new-transaction-form.png
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 9.23.10 PM.png" alt=""><figcaption></figcaption></figure>
+
+### Reviewing and Categorizing Transactions
+
+* Unreviewed transactions appear in **bold**
+* Click an unreviewed transaction to categorize it
+* Assign the correct account
+* Mark the transaction as **Reviewed**
+
+📸 **Image Placeholder:** unreviewed-transaction-highlight.png
+
+### Viewing Transaction Details
+
+Click a transaction to view:
+
+* Full transaction details
+* Automatically generated journal entries
+* Related documents (invoices or bills)
+* Payment and reconciliation status
+
+📸 **Image Placeholder:** transaction-details-view.png
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 9.27.27 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Tips and Best Practices
 
-* **Plan Your Structure:** Think about how you want to categorize transactions before creating accounts
-* **Use Consistent Naming:** Follow a pattern for account names to make them easy to find
-* **Don't Overcomplicate:** Start with essential accounts and add more as needed
-* **Archive, Don't Delete:** Keep historical data by archiving unused accounts
-* **Review Regularly:** Ensure your chart of accounts still meets your business needs
+* Review transactions daily to avoid backlogs
+* Use clear descriptions for future reference
+* Reconcile regularly with bank statements
+* Use bulk actions for similar transactions
+* Monitor uncategorized transactions closely
