@@ -36,9 +36,12 @@ Before you begin, make sure you have:
 ### Step-by-Step Instructions
 
 1. **Navigate to the Login Page**\
-   Go to your company’s Otutu URL (e.g., `https://yourcompany.otutu.com`).\
+   Go to your company’s Otutu URL (e.g., `https://app.otutu.co`).\
    📸 **Image Placeholder:** Login page screen
-2. **Enter Your Credentials**
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 4.57.44 PM.png" alt=""><figcaption></figcaption></figure>
+
+1. **Enter Your Credentials**
 
 * Enter your work email address
 * Type your secure password
@@ -46,6 +49,10 @@ Before you begin, make sure you have:
 
 If you’ve forgotten your password, click **Forgot Password** to reset it.\
 📸 **Image Placeholder:** Login form
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 5.05.12 PM.png" alt=""><figcaption></figcaption></figure>
+
+
 
 3. **Access Your Dashboard**\
    Once logged in, you can:
@@ -55,6 +62,8 @@ If you’ve forgotten your password, click **Forgot Password** to reset it.\
 * Check **unpaid bills** (money you owe suppliers)
 * Navigate to any module using the **left sidebar**\
   📸 **Image Placeholder:** Dashboard overview
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 5.08.29 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Tips and Best Practices
 
