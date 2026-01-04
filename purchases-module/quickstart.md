@@ -43,6 +43,8 @@ Poor vendor management leads to missed payments, damaged supplier relationships,
 
 📸 **Image Placeholder:** Vendor table showing name, balance, and status
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.14.08 PM.png" alt=""><figcaption></figcaption></figure>
+
 * See all your vendors in one place with balance tracking
 * Check who you owe money to (**Payable balance column**)
 * Identify overdue payments at a glance
@@ -50,6 +52,8 @@ Poor vendor management leads to missed payments, damaged supplier relationships,
 #### 3. Create New Vendor
 
 📸 **Image Placeholder:** Vendor creation form
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.16.41 PM.png" alt=""><figcaption></figcaption></figure>
 
 1. Click **"New Vendor"** button
 2. Choose vendor type: **Regular** or **Contractor**
@@ -73,6 +77,8 @@ Poor vendor management leads to missed payments, damaged supplier relationships,
 #### 5. Add Contact Information
 
 📸 **Image Placeholder:** Vendor contact details form
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.18.46 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Enter primary contact details
 * Add phone numbers (primary, mobile, toll-free, fax)
