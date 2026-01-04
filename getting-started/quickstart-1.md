@@ -38,16 +38,17 @@ Before you begin, make sure you have:
 * Select **"Company Settings"** from the dropdown\
   📸 **Image Placeholder:** Company Settings menu
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 6.18.19 PM.png" alt=""><figcaption></figcaption></figure>
+
 #### 2. Configure Company Profile
 
-* **Basic Information:** Enter your company name, email, and phone number\
-  📸 **Image Placeholder:** Basic Information form
-* **Upload Logo:** Add your company logo for professional invoices (recommended 200x200 pixels)\
-  📸 **Image Placeholder:** Logo upload interface
-* **Address Information:** Complete your **billing** and **shipping** addresses\
-  📸 **Image Placeholder:** Address fields
+* **Basic Information:** Enter your company name, email, and phone number
+* **Upload Logo:** Add your company logo for professional invoices (recommended 200x200 pixels)
+* **Address Information:** Complete your **billing** and **shipping** addresses
 * **Legal Details:** Add entity type and tax ID for compliance\
   📸 **Image Placeholder:** Legal Details form
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 6.28.08 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### 3. Set Company Defaults
 
@@ -55,6 +56,8 @@ Before you begin, make sure you have:
   📸 **Image Placeholder:** Currency selection dropdown
 * **Default Bank Account:** Select which bank account to use for transactions\
   📸 **Image Placeholder:** Default bank account selection
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 6.30.48 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### 4. Configure Localization
 
@@ -67,12 +70,19 @@ Before you begin, make sure you have:
 * **Number Format:** Choose how numbers and currencies are displayed\
   📸 **Image Placeholder:** Number format settings
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 6.32.00 PM.png" alt=""><figcaption></figcaption></figure>
+
 #### 5. Set Document Templates
 
 * **Invoice Settings:** Configure invoice number prefixes, payment terms, and default content\
   📸 **Image Placeholder:** Invoice settings panel
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 6.34.27 PM.png" alt=""><figcaption></figcaption></figure>
+
 * **Visual Design:** Choose templates, colors, fonts, and column labels\
   📸 **Image Placeholder:** Template and styling options
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 6.35.53 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Tips and Best Practices
 
