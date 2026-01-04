@@ -36,6 +36,8 @@ Manual recurring billing is tedious and error-prone. Missing a monthly invoice m
 
 📸 **Image Placeholder:** Recurring invoice form with schedule options
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 7.56.40 PM.png" alt=""><figcaption></figcaption></figure>
+
 1. Go to **Sales → Recurring Invoices**
 2. Click **"New Recurring Invoice"** button
 3. Select the client for recurring billing
@@ -43,6 +45,8 @@ Manual recurring billing is tedious and error-prone. Missing a monthly invoice m
 #### 2. Set Up Invoice Template
 
 📸 **Image Placeholder:** Line items and pricing configuration
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.01.46 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Add products/services that will be billed regularly
 * Set quantities and unit prices
@@ -53,6 +57,8 @@ Manual recurring billing is tedious and error-prone. Missing a monthly invoice m
 
 📸 **Image Placeholder:** Schedule management slide-over form
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.05.18 PM.png" alt=""><figcaption></figcaption></figure>
+
 1. Click **"Manage Schedule"** to set billing frequency
 2. Choose frequency: Daily, Weekly, Monthly, or Yearly
 3. Set start date (when first invoice generates)
@@ -61,6 +67,8 @@ Manual recurring billing is tedious and error-prone. Missing a monthly invoice m
 #### 4. Set Frequency Details
 
 📸 **Image Placeholder:** Frequency-specific options
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.04.06 PM.png" alt=""><figcaption></figcaption></figure>
 
 * **Weekly:** Choose day of week (Monday, Tuesday, etc.)
 * **Monthly:** Choose day of month (1st, 15th, last day, etc.)
@@ -87,6 +95,8 @@ Manual recurring billing is tedious and error-prone. Missing a monthly invoice m
 #### 7. Review and Approve
 
 📸 **Image Placeholder:** Template review and approval interface
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.10.25 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Review all template details and schedule settings
 * Check the schedule description and timeline
