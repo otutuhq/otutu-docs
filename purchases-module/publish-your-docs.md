@@ -43,6 +43,8 @@ Poor bill management leads to late payments, damaged supplier relationships, and
 
 📸 **Image Placeholder:** Bill table with status tabs (All, Unpaid, Paid)
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.22.07 PM.png" alt=""><figcaption></figcaption></figure>
+
 * See all bills with status tabs: All, Unpaid, Paid
 * Check due dates and amounts owed
 * Use filters to find specific bills
@@ -50,6 +52,8 @@ Poor bill management leads to late payments, damaged supplier relationships, and
 #### 3. Create New Bill
 
 📸 **Image Placeholder:** New bill creation form
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.24.03 PM.png" alt=""><figcaption></figcaption></figure>
 
 1. Click **"New Bill"** button
 2. Select vendor from dropdown
@@ -68,6 +72,8 @@ Poor bill management leads to late payments, damaged supplier relationships, and
 
 📸 **Image Placeholder:** Bill line items table
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.26.52 PM.png" alt=""><figcaption></figcaption></figure>
+
 * Click **"Add Item"** for each product or service
 * Select from offerings catalog or enter custom items
 * Enter quantity and unit price
@@ -77,6 +83,8 @@ Poor bill management leads to late payments, damaged supplier relationships, and
 
 📸 **Image Placeholder:** Payment terms configuration
 
+
+
 * Choose standard terms (Net 15, Net 30, etc.)
 * Or select **"Custom"** for specific arrangements
 * Due date updates automatically based on terms
@@ -84,6 +92,8 @@ Poor bill management leads to late payments, damaged supplier relationships, and
 #### 7. Review and Save
 
 📸 **Image Placeholder:** Bill review screen
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.29.04 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Check all totals and calculations
 * Add notes or special instructions
@@ -94,6 +104,8 @@ Poor bill management leads to late payments, damaged supplier relationships, and
 **Individual Payment**
 
 📸 **Image Placeholder:** Record payment form
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.30.16 PM.png" alt=""><figcaption></figcaption></figure>
 
 1. Open the bill and click **"Record Payment"**
 2. Enter payment amount, date, and method
