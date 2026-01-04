@@ -50,6 +50,8 @@ Your company profile is your business's digital identity in Otutu. This informat
 
 📸 **Image Placeholder:** Gear icon and settings menu screenshot
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 10.23.24 PM (1).png" alt=""><figcaption></figcaption></figure>
+
 1. Click the **gear icon** in the top right corner
 2. Select **"Company Profile"** from the Settings menu
 3. View your current profile information
@@ -65,6 +67,8 @@ Your company profile is your business's digital identity in Otutu. This informat
 
 📸 **Image Placeholder:** Logo upload interface screenshot
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 10.37.46 PM.png" alt=""><figcaption></figcaption></figure>
+
 1. Click the logo upload area
 2. Select a high-quality image (PNG or JPEG, max 2MB)
 3. Recommended size: **200x200 pixels**
@@ -75,6 +79,8 @@ Your company profile is your business's digital identity in Otutu. This informat
 
 📸 **Image Placeholder:** Address information form screenshot
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 10.38.52 PM.png" alt=""><figcaption></figcaption></figure>
+
 * **Street Address:** Physical business location
 * **City, State/Province, Postal Code:** Complete address for legal documents
 * **Country:** Determines tax calculations and currency options
@@ -83,6 +89,8 @@ Your company profile is your business's digital identity in Otutu. This informat
 #### 5. Configure Legal and Compliance
 
 📸 **Image Placeholder:** Legal/compliance configuration screenshot
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 10.40.15 PM.png" alt=""><figcaption></figcaption></figure>
 
 * **Entity Type:** Select your business structure (Sole Proprietorship, LLC, Corporation, etc.)
 * **Tax ID:** Enter your tax identification number
@@ -109,12 +117,16 @@ Company defaults establish baseline settings that apply to all financial operati
 
 📸 **Image Placeholder:** Company Defaults screen screenshot
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 10.42.42 PM.png" alt=""><figcaption></figcaption></figure>
+
 * Navigate to **Settings → Company Defaults**
 * View current default settings
 
 #### 2. Set Default Bank Account
 
 📸 **Image Placeholder:** Bank account selection screenshot
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 10.46.30 PM.png" alt=""><figcaption></figcaption></figure>
 
 * **Primary Bank Account:** Select main business checking account
 * **Account Display:** Shows account name with currency badge
@@ -150,12 +162,16 @@ Localization settings adapt Otutu to your region, language, and business practic
 
 📸 **Image Placeholder:** Localization settings screenshot
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 10.48.57 PM.png" alt=""><figcaption></figcaption></figure>
+
 * Navigate to **Settings → Localization**
 * View current regional settings
 
 #### 2. Configure General Settings
 
 📸 **Image Placeholder:** Language & timezone selection screenshot
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 10.51.50 PM.png" alt=""><figcaption></figcaption></figure>
 
 * **Language:** Preferred interface language
 * **Timezone:** Business timezone for accurate date/time calculations
@@ -200,12 +216,16 @@ Document templates ensure consistent, professional appearance across invoices, b
 
 📸 **Image Placeholder:** Document Templates screen screenshot
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 10.54.37 PM.png" alt=""><figcaption></figcaption></figure>
+
 * Navigate to **Settings → Document Templates**
 * View templates by document type
 
 #### 2. Configure General Settings
 
 📸 **Image Placeholder:** Numbering and discount configuration screenshot
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 10.58.06 PM.png" alt=""><figcaption></figcaption></figure>
 
 * **Number Prefix:** Set prefixes (INV-, BILL-, EST-)
 * **Payment Terms:** Default terms for new documents
@@ -214,6 +234,8 @@ Document templates ensure consistent, professional appearance across invoices, b
 #### 3. Customize Visual Design
 
 📸 **Image Placeholder:** Branding customization screenshot
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 11.00.50 PM.png" alt=""><figcaption></figcaption></figure>
 
 * **Document Logo:** Upload logo specific for documents
 * **Show Logo:** Toggle visibility on documents
