@@ -51,6 +51,8 @@ Without a properly organized chart of accounts, your financial records would be 
 
 📸 **Image Placeholder:** Category tabs screenshot
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.39.35 PM.png" alt=""><figcaption></figcaption></figure>
+
 The system organizes accounts into five main categories:
 
 * **Assets 💰:** What your business owns (cash, equipment, inventory)
@@ -62,6 +64,8 @@ The system organizes accounts into five main categories:
 #### 3. View Account Details
 
 📸 **Image Placeholder:** Account detail view screenshot
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.42.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Click on any account tab to see accounts in that category
 * Each account shows:
@@ -75,6 +79,8 @@ The system organizes accounts into five main categories:
 
 📸 **Image Placeholder:** Add new account form
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 8.44.04 PM.png" alt=""><figcaption></figcaption></figure>
+
 1. Click **"Add a new account"** button
 2. Select account type from dropdown
 3. System automatically generates account code
@@ -85,6 +91,8 @@ The system organizes accounts into five main categories:
 #### 5. Edit Existing Accounts
 
 📸 **Image Placeholder:** Edit account screen
+
+
 
 1. Click the edit icon next to any account
 2. Update account details as needed
