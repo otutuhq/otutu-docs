@@ -35,6 +35,8 @@ The **left sidebar** is organized into logical groups.
 
 📸 **Image Placeholder:** Sidebar Navigation
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 6.38.55 PM.png" alt=""><figcaption></figcaption></figure>
+
 * **Sales 💰:** Everything about getting paid by customers
   * **Clients:** Your customer database
   * **Estimates:** Price quotes for potential work
@@ -61,6 +63,8 @@ The **left sidebar** is organized into logical groups.
 
 📸 **Image Placeholder:** Quick Actions Example
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 6.41.03 PM.png" alt=""><figcaption></figcaption></figure>
+
 #### 3. Settings and Configuration
 
 * Access **settings** through the gear icon in the top right
@@ -68,6 +72,8 @@ The **left sidebar** is organized into logical groups.
 * **User settings** are personal to your account
 
 📸 **Image Placeholder:** Settings Menu
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 6.42.38 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### Tips and Best Practices
 
