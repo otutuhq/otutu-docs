@@ -42,6 +42,8 @@ They also help you avoid scope creep and ensure both parties agree on the work a
 
 📸 **Image Placeholder:** Estimate creation form similar to invoice
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 7.48.34 PM.png" alt=""><figcaption></figcaption></figure>
+
 1. Go to **Sales → Estimates**
 2. Click **"New Estimate"** button
 3. Select the client who will receive the quote
@@ -49,6 +51,8 @@ They also help you avoid scope creep and ensure both parties agree on the work a
 #### 2. Set Estimate Details
 
 📸 **Image Placeholder:** Estimate number and date configuration
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 7.49.48 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Estimate number generates automatically
 * Set the estimate date (when you're creating it)
@@ -58,6 +62,8 @@ They also help you avoid scope creep and ensure both parties agree on the work a
 
 📸 **Image Placeholder:** Date picker for quote validity period
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 7.50.57 PM.png" alt=""><figcaption></figcaption></figure>
+
 * Set expiration date (when the quote expires)
 * Payment terms calculate expiration automatically
 * Choose appropriate validity period (usually 30 days)
@@ -65,6 +71,8 @@ They also help you avoid scope creep and ensure both parties agree on the work a
 #### 4. Add Line Items
 
 📸 **Image Placeholder:** Line items with products, services, and pricing
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 7.52.17 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Add products or services just like an invoice
 * Include quantities and unit prices
@@ -89,6 +97,8 @@ They also help you avoid scope creep and ensure both parties agree on the work a
 #### 7. Convert to Invoice
 
 📸 **Image Placeholder:** One-click conversion button on approved estimates
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 7.55.01 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Once client approves, click **"Convert to Invoice"**
 * All line items and details transfer automatically
