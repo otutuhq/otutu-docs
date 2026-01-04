@@ -42,12 +42,16 @@ Professional invoices with clear descriptions, proper tax calculations, and orga
 
 📸 **Image Placeholder:** Invoice list page with "New Invoice" button
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 7.31.27 PM.png" alt=""><figcaption></figcaption></figure>
+
 1. Go to **Sales → Invoices**
 2. Click **"New Invoice"** button
 
 #### 2. Select Client
 
 📸 **Image Placeholder:** Client dropdown with search functionality
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 7.35.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 1. Start typing the client name to search
 2. Select the correct client from the dropdown
@@ -56,6 +60,8 @@ Professional invoices with clear descriptions, proper tax calculations, and orga
 #### 3. Add Line Items
 
 📸 **Image Placeholder:** Line items table with product selection, quantity, and pricing
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 7.37.18 PM.png" alt=""><figcaption></figcaption></figure>
 
 1. Click **"Add Item"** for each product or service
 2. Select from your offerings catalog or enter custom items
@@ -66,6 +72,8 @@ Professional invoices with clear descriptions, proper tax calculations, and orga
 
 📸 **Image Placeholder:** Tax selection dropdown with automatic calculations
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 7.44.08 PM.png" alt=""><figcaption></figcaption></figure>
+
 * Taxes apply automatically based on product settings
 * Override tax rates if needed for specific situations
 * See tax amounts calculated in real-time
@@ -73,6 +81,8 @@ Professional invoices with clear descriptions, proper tax calculations, and orga
 #### 5. Set Payment Terms
 
 📸 **Image Placeholder:** Due date and payment terms configuration
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 7.45.57 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Due date calculates automatically based on client terms
 * Override if this invoice has special arrangements
