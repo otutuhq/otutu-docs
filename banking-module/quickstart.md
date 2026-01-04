@@ -51,6 +51,8 @@ Without proper bank account management, you'd spend countless hours manually ent
 
 📸 **Image Placeholder:** New bank account creation form screenshot
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 10.06.07 PM.png" alt=""><figcaption></figcaption></figure>
+
 1. Click **"New Bank Account"** button
 2. **Account Type Selection:** Choose from Depository, Investment, Credit, or Loan accounts
 
@@ -65,6 +67,8 @@ Without proper bank account management, you'd spend countless hours manually ent
 
 📸 **Image Placeholder:** Account configuration screenshot
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 10.12.12 PM.png" alt=""><figcaption></figcaption></figure>
+
 * **Account Name:** Descriptive name (e.g., "Main Business Checking")
 * **Account Number:** Enter actual bank account number
 * **Currency:** Select account currency (required for multi-currency businesses)
@@ -74,6 +78,8 @@ Without proper bank account management, you'd spend countless hours manually ent
 
 📸 **Image Placeholder:** Account subtype configuration screenshot
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 10.15.21 PM.png" alt=""><figcaption></figcaption></figure>
+
 * System automatically shows subtypes based on account type:
   * Depository: Current Assets, Cash Equivalents
   * Credit: Current Liabilities, Credit Cards
@@ -82,6 +88,8 @@ Without proper bank account management, you'd spend countless hours manually ent
 #### 5. View Account Balances
 
 📸 **Image Placeholder:** Account balances dashboard screenshot
+
+
 
 * See real-time balances for all accounts
 * Balances formatted with currency codes
