@@ -47,6 +47,8 @@ Poor client management can lead to delayed payments, lost business opportunities
 
 📸 **Image Placeholder:** Client table showing name, email, balance, and status columns
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 6.47.44 PM.png" alt=""><figcaption></figcaption></figure>
+
 * See all your clients in one place
 * Check who owes you money (Balance column)
 * Identify overdue payments at a glance
@@ -54,6 +56,8 @@ Poor client management can lead to delayed payments, lost business opportunities
 #### 3. Create New Client
 
 📸 **Image Placeholder:** Client creation form with contact details, billing address, and credit limit fields
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 6.49.06 PM.png" alt=""><figcaption></figcaption></figure>
 
 1. Click the **"New Client"** button
 2. Fill in basic contact information
@@ -63,6 +67,8 @@ Poor client management can lead to delayed payments, lost business opportunities
 #### 4. Add Contact Information
 
 📸 **Image Placeholder:** Contact management section within client form
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-01-04 at 6.52.00 PM.png" alt=""><figcaption></figcaption></figure>
 
 * Add multiple contacts per client
 * Include phone numbers and emails
